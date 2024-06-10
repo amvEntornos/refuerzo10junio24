@@ -7,3 +7,4 @@ clon1
 cambio
 cambio 2 refuerzo
 rama1>t1
+rama1>t2
