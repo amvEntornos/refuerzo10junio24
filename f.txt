@@ -8,3 +8,5 @@ cambio
 cambio 2 refuerzo
 r2>h1
 r2>h2
+rama1>t1
+rama1>t2
